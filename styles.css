@@ -1,0 +1,39 @@
+.container{
+  width: 70%;
+  margin:auto;
+  text-align: center;
+}
+body{
+  background-color: #393E46;
+}
+
+h1{
+  margin: 30px;
+  font-size: 8rem;
+  text-shadow: 5px 0 #232931;
+  color: #4ecca3;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+.dice{
+  text-align:center;
+  color: #4ecca3;
+  display: inline-block;
+}
+
+
+p{
+  font-size: 2rem;
+  font-family: 'Comic Neue', cursive;
+}
+
+img{
+  width: 80%;
+}
+footer{
+  font-family: 'Comic Neue', cursive;
+  color: #ffffff;
+  text-align: center;
+margin-top: 3%;
+}
